@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">听瓜</string>
+    <string name="the_record_audio_is_important_for_this_app_please_grant_the_permission">RECORD_AUDIO 是必要权限，请同意权限请求。</string>
+    <string name="record_audio_permission_required_for_this_feature_to_be_available_please_grant_the_permission">RECORD_AUDIO 是应用功能所需的权限，请同意权限请求。</string>
+    <string name="request_permission">申请权限</string>
+</resources>

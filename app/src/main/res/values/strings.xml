@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">watermelon</string>
+    <string name="the_record_audio_is_important_for_this_app_please_grant_the_permission">RECORD_AUDIO permission is important for this app. Please grant the permission.</string>
+    <string name="record_audio_permission_required_for_this_feature_to_be_available_please_grant_the_permission">RECORD_AUDIO permission required for this feature to be available. Please grant the permission.</string>
+    <string name="request_permission">Request permission</string>
+</resources>
